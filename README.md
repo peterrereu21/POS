@@ -11,8 +11,8 @@ Health check: GET http://localhost:3000/health
 Products endpoints: GET /api/products
 
 JavaFX frontend (run locally):
-Prerequisite: Install a JDK (Temurin/Adoptium or other) and set JAVA_HOME.
-1. Install JDK: https://adoptium.net/
+Prerequisite: Install a JDK 17+ (Temurin/Adoptium or other) and set JAVA_HOME.
+1. Install JDK 17+: https://adoptium.net/
 2. Set JAVA_HOME (Windows):
    - Open System Properties → Advanced → Environment Variables
    - New system variable JAVA_HOME = C:\\Program Files\\Eclipse Adoptium\\jdk-<version>
