@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "sku": "P001",
+    "name": "Coca Cola 330ml",
+    "price": 1.5,
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "sku": "P002",
+    "name": "Bread Loaf",
+    "price": 0.8,
+    "quantity": 50
+  }
+]
